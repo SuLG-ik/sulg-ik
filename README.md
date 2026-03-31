@@ -8,6 +8,14 @@
 
 ---
 
+## 🏢 Work
+
+Currently working at **[X5 Media](https://x5.ru)** — the digital products division of X5 Group (Pyaterochka, Perekrestok, Karusel), building mobile and cross-platform solutions.
+
+Open to interesting open-source collaborations and side projects.
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
@@ -20,22 +28,24 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### [yandex-mapkit-kmp](https://github.com/SuLG-ik/yandex-mapkit-kmp) ⭐ 66
-Kotlin-first SDK for Yandex MapKit with Kotlin Multiplatform support. Allows using Yandex MapKit directly from common source targeting Android and iOS, including Compose Multiplatform.
+| Project | Description |
+|---|---|
+| [yandex-mapkit-kmp](https://github.com/SuLG-ik/yandex-mapkit-kmp) ⭐ 66 | Kotlin-first SDK for Yandex MapKit with Kotlin Multiplatform & Compose Multiplatform support (Android + iOS) |
+| [svg2vector-mcp](https://github.com/SuLG-ik/svg2vector-mcp) ⭐ 7 | MCP server that converts SVG files to Android Vector Drawable XML — use directly from your AI assistant |
+| [compiler-go](https://github.com/SuLG-ik/compiler-go) | Compiler implementation in TypeScript/Go |
+| [WLEDX](https://github.com/SuLG-ik/WLEDX) | Native Android app for controlling WLED LED strips over the network |
+| [recordgram](https://github.com/SuLG-ik/recordgram) | Go backend service |
+| [MyClients](https://github.com/SuLG-ik/MyClients) | Easy-to-use Kotlin application to manage company clients |
 
 ---
 
-## 📊 GitHub Stats
+## 📝 Articles on Habr
 
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuLG-ik&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SuLG-ik&theme=tokyonight&hide_border=true)
-
-</div>
+- [Habr post #1](https://habr.com/ru/articles/840128/)
+- [Habr post #2](https://habr.com/ru/articles/841728/)
+- [Habr post #3](https://habr.com/ru/articles/887090/)
 
 ---
 
