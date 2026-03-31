@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=200&text=SuLG-ik&fontColor=white&fontSize=60&desc=Kotlin%20%26%20KMP%20Developer&descAlignY=75&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=200&text=SuLG-ik&fontColor=white&fontSize=60&desc=Kotlin%20%2B%20KMP%20Developer&descAlignY=75&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Kotlin+%26+Kotlin+Multiplatform+Developer;Android+%7C+iOS+%7C+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -31,7 +31,7 @@ Kotlin-first SDK for Yandex MapKit with Kotlin Multiplatform support. Allows usi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuLG-ik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuLG-ik&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SuLG-ik&theme=tokyonight&hide_border=true)
 
